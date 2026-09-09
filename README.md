@@ -11,7 +11,7 @@ Youtube da çıkan sinirinizi bozan reklamları bir nebze olsun azaltacak bir ek
 # Kurulum
 
 1. İlk önce yüklemiş olduğum dosyayı indir.
-2. Dosyayı direkt masaüstüne at.
+2. Dosyayı rar dan çıkarıp direkt masaüstüne at.
 3. Chrome'a gir ve arama çubuğuna `chrome://extensions/` yaz.
 4. Açılan menüde sağ üstte olan **Geliştirici Modu**'nu aktif et.
 5. Sol üstte bulunan **Paketlenmemiş öğe yükle**'ye bas.
